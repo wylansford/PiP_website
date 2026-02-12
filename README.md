@@ -1,12 +1,9 @@
-# PiP Website
+# PiP
 
-Minimal Next.js landing page for PiP.
+A macOS menu bar utility that pins any app window above others so it stays visible at all times.
 
-## Run
+![PiP demo](public/pip-demo.png)
 
-```bash
-npm install
-npm run dev
-```
+## Download
 
-Open http://localhost:3000
+Visit [pip.lansford.dev](https://pip.lansford.dev) to download.
