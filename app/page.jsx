@@ -15,7 +15,7 @@ export default function HomePage() {
         </p>
 
         <div className="actions">
-          <a className="btn btn-primary" href="#" aria-label="Download PiP">
+          <a className="btn btn-primary" href="https://github.com/wylansford/PiP_website/releases/latest/download/PiP.dmg" aria-label="Download PiP">
             download
           </a>
           <a
