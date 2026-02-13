@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>PiP Updates</title>
+        <link>https://raw.githubusercontent.com/wylansford/PiP_website/main/appcast.xml</link>
+        <description>Most recent updates for PiP</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.0</title>
+            <description>
+                <![CDATA[
+                    <h2>PiP 0.1.0</h2>
+                    <ul>
+                        <li>See full release notes on GitHub</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 12 Feb 2026 16:50:16 -0800</pubDate>
+            <enclosure
+                url="https://github.com/wylansford/PiP_website/releases/download/v0.1.0/PiP-0.1.0.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="zsSl6/VForD9qkUAEztQN4VFx1dknV5oDX7LRjNQgR7JlnfGYlsfaJJIzJOlcgoJD2sPkCx+lNrvkhr2xjBkCA==" length="942543"
+                sparkle:version="0.1.0"
+            />
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
