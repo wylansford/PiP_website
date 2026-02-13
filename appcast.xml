@@ -24,5 +24,24 @@
             />
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
+        <item>
+            <title>Version 0.1.2</title>
+            <description>
+                <![CDATA[
+                    <h2>PiP 0.1.2</h2>
+                    <ul>
+                        <li>See full release notes on GitHub</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 12 Feb 2026 17:55:23 -0800</pubDate>
+            <enclosure
+                url="https://github.com/wylansford/PiP_website/releases/download/v0.1.2/PiP-0.1.2.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="WkKJyZ7x2Tp6hJteF6LujooXyOr2at0VvAy08SbH+gExAPZfdzK0X+E3Z5jurZzGLoksInhONP2Rr9Eir2uVBg==" length="949981"
+                sparkle:version="0.1.2"
+            />
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
